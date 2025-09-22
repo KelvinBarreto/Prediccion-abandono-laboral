@@ -60,7 +60,11 @@ Implementar este modelo de predicción tiene beneficios clave:
 
 ## 📂 Estructura del repositorio
 ├── data/ # Datos utilizados (si son públicos o ficticios)
+
 ├── notebooks/ # Notebooks con EDA, modelos y evaluaciones
+
 ├── src/ # Código fuente (funciones auxiliares, scripts)
+
 ├── reports/ # Informes y gráficas del análisis
+
 ├── README.md # Documentación principal del proyecto
