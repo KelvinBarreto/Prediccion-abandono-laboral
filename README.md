@@ -37,8 +37,8 @@ Además, se incorporaron herramientas de **interpretabilidad del modelo** (SHAP)
 ---
 
 ## ✅ 4. Conclusiones
-- El modelo que mejor rendimiento obtuvo fue **XGBoost**, con un AUC-ROC superior al 0.80.  
-- La interpretabilidad mostró que factores como el salario, la ubicación y la jornada laboral influyen de manera significativa en la rotación.  
+- El modelo que mejor rendimiento obtuvo fue **XGBoost**, con un AUC-ROC superior al 0.90.  
+- La interpretabilidad mostró que factores como la satisfacción laboral, el salario y la distancia del trabajo a casa influyen de manera significativa en la rotación.  
 - La predicción permite actuar de forma proactiva sobre empleados en riesgo.
 
 ---
