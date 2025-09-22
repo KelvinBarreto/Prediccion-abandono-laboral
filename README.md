@@ -59,7 +59,7 @@ Implementar este modelo de predicción tiene beneficios clave:
 ---
 
 ## 📂 Estructura del repositorio
-├── data/ # Datos utilizados (si son públicos o ficticios)
+├── data/ # Datos utilizados (internos de la organización)
 
 ├── notebooks/ # Notebooks con EDA, modelos y evaluaciones
 
