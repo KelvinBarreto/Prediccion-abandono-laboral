@@ -2,7 +2,7 @@
 Es un proyecto para predecir la probabilidad de abandono de los empleados de una empresa
 # 📌 Predicción del abandono laboral y su impacto económico
 
-Este proyecto forma parte de mi Trabajo Fin de Máster (TFM) y tiene como objetivo **predecir la rotación laboral dentro de una empresa** utilizando técnicas de Machine Learning, y evaluar el **impacto económico asociado a la pérdida de talento**.
+Este proyecto forma parte de mi Trabajo Fin de Máster (TFM) y tiene como objetivo **predecir la rotación laboral de una empresa** utilizando técnicas de Machine Learning, y evaluar el **impacto económico asociado a la pérdida de talento**.
 
 ---
 
